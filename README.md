@@ -8,10 +8,6 @@ MEMBERS:
 
 -KHULOOD AL-SELWI
 
-Claro, aquí está la modificación enfocada en interfaces, clases abstractas y herencia:
-
----
-
 In this exercise, we learned to implement interfaces, create abstract classes,
 and apply inheritance principles. We focused on designing a flexible and reusable code structure,
 defining abstract methods for subclasses, and ensuring polymorphism through interface implementation.
