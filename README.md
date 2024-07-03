@@ -1,4 +1,4 @@
-Poject Interfaces,Abstractclass,Inheritance
+Poject Interfaces and Abstractclass
 
 SUBJECT: PROGRAMMING
 
